@@ -1,4 +1,4 @@
-# SpringBoot-Example-2
+# SpringBoot-Example-2 - Projektstatus: abgeschlossen
 Spring Boot Project - Restful
 
 Um immer auf dem aktuellen Stand zu sein, verbessere ich meine derzeitigen IT-Kenntnisse und bringe mir neue 
