@@ -1,4 +1,4 @@
-# SpringBoot-Example-2
+# SpringBoot-Example
 Status: abgeschlossen
 
 Spring Boot Projekt 2:
